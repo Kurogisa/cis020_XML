@@ -1,0 +1,56 @@
+menu {
+  display: block;
+  background-color: lightyellow;
+  padding: 30px;
+}
+menu_title {
+  display: block;
+  border: dashed darksalmon;
+  background-color: blanchedalmond;
+  padding-top: 10px;
+
+  text-align: center;
+  font-family: fantasy;
+  font-size: 35pt;
+  font-weight: bolder;
+  color: rgb(202, 110, 79);
+}
+menu_item {
+  display: block;
+  background-color: antiquewhite;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  padding-top: 15px;
+  border: dashed darksalmon;
+
+  text-align: left;
+  font-size: large;
+  font-weight: lighter;
+  color: black;
+  font-family: monospace;
+}
+num {
+  display: block;
+  text-align: center;
+  border: dashed white;
+  padding: 5px;
+  font-family: cursive;
+}
+name {
+  margin-top: 10px;
+  display: block;
+  font-weight: 600;
+}
+features {
+  display: block;
+  text-decoration: underline;
+}
+fat_grams {
+  display: block;
+  font-style: italic;
+  color: rosybrown;
+}
+desc {
+  display: block;
+}
