@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--this is the DTD part of the xml file-->
+<!DOCTYPE anime
+[
+<!ELEMENT anime (title, season_num, ep_num, air_year)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT season_num (#PCDATA)>
+<!ELEMENT ep_num (#PCDATA)>
+<!ELEMENT air_year (#PCDATA)>
+]
+>
+<anime>
+    <title>Fairy Tail</title>
+    <season_num>9</season_num>
+    <ep_num>320</ep_num>
+    <air_year>2009</air_year>
+</anime>
