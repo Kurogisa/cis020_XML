@@ -1,1 +1,21 @@
 <!--this is the schema-->
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
+  <xsd:element name="songs">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="song" maxOccurs="unbounded" minOccurs="1">
+          <xsd:sequence>
+            <xsd:element type="xsd:string" name="title"/>
+            <xsd:element type="xsd:string" name="songwriter"/>
+            <xsd:element type="xsd:string" name="publisher"/>
+            <xsd:element type="xsd:string" name="producer"/>
+            <xsd:element type="xsd:time" name="length"/>
+            <xsd:element type="xsd:int" name="year"/>
+            <xsd:element type="xsd:string" name="artist"/>
+          </xsd:sequence>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>
