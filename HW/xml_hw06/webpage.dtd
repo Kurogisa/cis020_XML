@@ -1,9 +1,7 @@
-<!DOCTYPE webpage
-[
 <!ELEMENT homepage (head, body)>
 <!ELEMENT head (title)>
 <!ELEMENT title (#PCDATA)>
-<!ELEMENT body(banner, maintitle, rule, text, footer)>
+<!ELEMENT body (banner, maintitle, rule, text, footer)>
 <!ELEMENT banner EMPTY>
 <!ELEMENT maintitle (#PCDATA)>
 <!ELEMENT rule EMPTY>
@@ -12,5 +10,3 @@
 <!ELEMENT footer EMPTY>
 <!ATTLIST banner source CDATA "topbanner.gif">
 <!ATTLIST footer source CDATA "bottombanner.gif">
-]
->
