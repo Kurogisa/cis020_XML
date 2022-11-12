@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<levelone xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="courses.xsd">
+    <required>
+        <course>CA 040D<unit>1</unit></course>
+        <course>CA 045D<unit>1</unit></course>
+        <course>CA 050D<unit>1</unit></course>
+        <course>CA 070D<unit>1</unit></course>
+        <course>CA 075D<unit>1</unit></course>
+        <course>CA 080D<unit>1</unit></course>
+        <course>CA 100D<unit>3</unit></course>
+    </required>
+    <elective>
+        <course>CA 055<unit>1</unit></course>
+        <course>CA 060<unit>1</unit></course>
+        <course>CA 065<unit>1</unit></course>
+        <course>CIS 041<unit>3</unit></course>
+        <course>CIS 082<unit>3</unit></course>
+        <course>CIS 007<unit>3</unit></course>
+        <course>CIS 008<unit>3</unit></course>
+    </elective>
+</levelone>
