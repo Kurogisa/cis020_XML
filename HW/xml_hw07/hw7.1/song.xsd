@@ -1,21 +1,21 @@
 <!--this is the schema-->
 <?xml version="1.0"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
-  <xsd:element name="songs">
-    <xsd:complexType>
-      <xsd:sequence>
-        <xsd:element name="song" maxOccurs="unbounded" minOccurs="1">
-          <xsd:sequence>
-            <xsd:element type="xsd:string" name="title"/>
-            <xsd:element type="xsd:string" name="songwriter"/>
-            <xsd:element type="xsd:string" name="publisher"/>
-            <xsd:element type="xsd:string" name="producer"/>
-            <xsd:element type="xsd:time" name="length"/>
-            <xsd:element type="xsd:int" name="year"/>
-            <xsd:element type="xsd:string" name="artist"/>
-          </xsd:sequence>
-        </xsd:element>
-      </xsd:sequence>
-    </xsd:complexType>
+  <xsd:element name="SONGS">
+  <xsd:complexType>
+    <xsd:sequence>
+      <xsd:element name="SONG" maxOccurs="unbounded" minOccurs="2">
+      <xsd:simpleType>
+          <xsd:element type="xsd:string" name="TITLE"/>
+          <xsd:element type="xsd:string" name="SONGWRITER"/>
+          <xsd:element type="xsd:string" name="PUBLISHER"/>
+          <xsd:element type="xsd:string" name="PRODUCER"/>
+          <xsd:element type="xsd:string" name="LENGTH"/>
+          <xsd:element type="xsd:int" name="YEAR"/>
+          <xsd:element type="xsd:string" name="ARTIST"/>
+      </xsd:simpleType>
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
   </xsd:element>
 </xsd:schema>
