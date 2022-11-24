@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="people.xsl"?>
+<people>
+  <person>
+    <firstname>Mark</firstname>
+    <lastname>Branom</lastname>
+  </person>
+  <person>
+    <firstname>Fake</firstname>
+    <lastname>Fakerson</lastname>
+  </person>
+</people>

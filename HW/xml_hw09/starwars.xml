@@ -1,0 +1,18 @@
+<starwars>
+  <characters>
+    <hero>
+       <name>Han Solo</name>
+       <name>Leia Organa</name>
+       <name>Luke Skywalker</name>
+    </hero>
+    <villain>
+       <name>Darth Vader</name>
+       <name>Grand Moff Tarkin</name>
+       <name>Chief Jawa</name>
+    </villain>
+    <droid>
+       <name>C-3PO</name>
+       <name>R2-D2</name>
+    </droid>
+  </characters>
+</starwars>
