@@ -14,7 +14,7 @@
                     <th>Last Name</th>
                 </tr>
                 <xsl:for-each select="starwars/movie">
-                    <xsl:sort select="title"/>
+                    <xsl:sort select="episode"/>
                     <tr>
                         <td>
                             <xsl:value-of select="title"/>
