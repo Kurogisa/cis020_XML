@@ -1,0 +1,18 @@
+
+<xs:schema  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+<xs:element name="starwars">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="movie">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="title" />
+                            <xs:element type="xs:int" name="episode" />
+                            <xs:element type="xs:int" name="year" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

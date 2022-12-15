@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SanJoseCityCollege xmlns:xlink="http://www.w3.org/1999/xlink">
+    <Department name="Computer Applications">
+        <Link xlink:type="simple" xmlns:href="https://www.sjcc.edu/academics/departments-divisions/computer-applications" xlink:show="new">
+        Click here to go to Computer Applications Department Website.
+        </Link>
+    </Department>
+    <Department name="Computer Information Systems">
+        <Link xlink:type="simple" xmlns:href="https://www.sjcc.edu/academics/departments-divisions/computer-information-systems" xlink:show="new">
+        Click here to go to Computer Information Systems Department Website.
+        </Link>
+    </Department>
+</SanJoseCityCollege>

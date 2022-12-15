@@ -1,5 +1,8 @@
-1) //starwars/characters/villain/name 2) //hero|//droid 3)
-//starwars/characters/villain/name[1] 4) <name>Darth Vader</name>
+1) //starwars/characters/villain/name 
+2) //hero|//droid 
+3)
+//starwars/characters/villain/name[1] 
+4) <name>Darth Vader</name>
 <name>Grand Moff Tarkin</name>
 <name>Chief Jawa</name>
 5) Han Solo

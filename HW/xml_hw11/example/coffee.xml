@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<coffees>
+    <region id="LA" name="Latin  America">
+        <coffee id="GUA392" name="Guatemalan  Express" origin="Guatemala">
+            <taste>Mild and Bland</taste>
+            <price>11.99</price>
+            <availability>Year-round</availability>
+            <bestwith>Breakfast</bestwith>
+        </coffee>
+        <coffee id="COS120" name="Costa  Rican Deacon" origin="Costa Rica">
+            <taste>Exotic and Untamed</taste>
+            <price>12.99</price>
+            <availability>Year-round</availability>
+            <bestwith>Dessert</bestwith>
+        </coffee>
+    </region>
+    <region ID="AF" name="Africa">
+        <coffee id="ETH129" name="Ethiopian  Sunset Supremo" origin="Ethiopa">
+            <taste>Exotic and Untamed</taste>
+            <price>14.99</price>
+            <availability>Limited</availability>
+            <bestwith>Chocolate</bestwith>
+        </coffee>
+        <coffee id="KEN647" name="Kenyan  Elephantismo" origin="Kenya">
+            <taste>Solid yet Understated</taste>
+            <price>3.99</price>
+            <availability>Year-round</availability>
+            <bestwith>Elephant Ears</bestwith>
+        </coffee>
+        <coffee id="BUR111" name="Burundi  Legolasan" origin="Burundi">
+            <taste>A Taste Only a Wood Elf Would  Like</taste>
+            <price>33.99</price>
+            <availability>Very Limited</availability>
+            <bestwith>Lembas Bread</bestwith>
+        </coffee>
+    </region>
+</coffees>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <sjccWD>
+        <title>SJCC Widget Department</title>
+        <description>This is the SJCC's Widget Department Website</description>
+        <link>http://www.sjcc.edu/widgetdepartment</link> 
+        <files>
+            <title>New Department Logo</title>
+            <description>Displays Deparment Logo</description>
+            <link>Click to see new logo!</link>
+            <enclosure url="http://www.sjcc.edu/widgetdepartment/new_logo.png" length="1000" type="application/png" />
+        </files>
+        <files>
+            <title>Staff Directory</title>
+            <description>List of staff members</description>
+            <link>Click to see staff directory!</link>
+            <enclosure url="http://www.sjcc.edu/widgetdepartment/staff.html" length="1000" type="application/rss+html" />
+        </files>
+        <files>
+            <title>About Us</title>
+            <description>video file about us</description>
+            <link>Click to see video about us!</link>
+            <enclosure url="http://www.sjcc.edu/widgetdepartment/aboutus.mp4" length="15421821" type="video/mp4" />
+        </files>
+        <files>
+            <title>Latest News</title>
+            <description>audio file about what is new</description>
+            <link>Click to hear about what is new!</link>
+            <enclosure url="http://www.sjcc.edu/widgetdepartment/latest_news.mp3" length="15421821" type="audio/mp3" />
+        </files>
+    </sjccWD>
+</rss>
+<link href="http://www.sjcc.edu/widgetdepartment/rss.xml" id="SJCC Widget Department RSS " rev="10242016" title="SJCC Wedget Department Website" type="application/rss+xml" />

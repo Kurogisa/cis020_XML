@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SanJoseCityCollege>
+  <Department id="CompApp" name="Computer Applications">
+     <Name>Computer Applications</Name>
+     <Link>https://www.sjcc.edu/academics/departments-divisions/computer-applications</Link>
+  </Department>
+  <Department id="CompInfoSys" name="Computer Information Systems">
+     <Name>Computer Information Systems</Name>
+     <Link>https://www.sjcc.edu/academics/departments-divisions/computer-information-systems</Link>
+  </Department>
+</SanJoseCityCollege>
